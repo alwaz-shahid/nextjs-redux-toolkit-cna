@@ -15,7 +15,7 @@ A quick start template so that you can focus more on your project.
 >
 > Make your project SEO friendly with Next-Seo.
 
- Here you can find live [Preview](https://nextjs-redux-toolkit-cna/) of the app. &copy; 2022
+ Here you can find live [Preview](https://nextjs-redux-toolkit-cna.netlify.app/) of the app. &copy; 2022
 
 ## Commands
 ```
