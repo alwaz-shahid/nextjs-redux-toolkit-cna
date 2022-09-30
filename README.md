@@ -1,6 +1,8 @@
 
 # Next.js Redux Toolkit & Tailwind Css Example (ThunkApi).
+<hr/>
 
+![image](https://user-images.githubusercontent.com/52915358/193289623-a16aae00-a58f-4423-9bc8-a6f4a8cec6ce.png)
 
 <hr/>
 <h1 align="center">Hi 👋, I'm Alwaz</h1>
